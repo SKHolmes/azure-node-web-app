@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/57acc994-27e2-41bb-8561-3c3c1d07cf5c/resourceGroups/main/providers/Microsoft.Web/sites/sam-poc-web-app",
+    "appService.deploySubpath": "."
+}
